@@ -119,13 +119,6 @@ All resolved through circuit redesign, proper voltage regulation, and debugging.
 
 ## 👨‍💻 Contributors
 
-- **[Your Name]** – Design, Coding, Testing  
-(Add others if applicable)
-
----
-
-## 👨‍💻 Contributors
-
 * **\[Aush Badhe]** – Design, Coding, Testing
 
 ---
