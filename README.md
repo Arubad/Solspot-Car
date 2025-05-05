@@ -116,9 +116,3 @@ Make sure the connections match exactly to ensure proper functionality and avoid
 All resolved through circuit redesign, proper voltage regulation, and debugging.
 
 ---
-
-## 👨‍💻 Contributors
-
-* **\[Aush Badhe]** – Design, Coding, Testing
-
----
